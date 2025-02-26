@@ -1,5 +1,12 @@
 # TypeScript RACO 2025
 
+• Criar uma action do tipo TypeScript que faça execução de algum linter ou quality 
+gates
+o Exemplos:
+§ Validar se existe um arquivo no repositório necessário para o build,
+caso negativo abortar a esteira indicando que e necessário esse 
+arquivo
+
 Tarefa: Crie um pipeline de CI/CD usando o GitHub Actions para um projeto simples de 
 aplicação web.
 
@@ -35,13 +42,6 @@ CI e de CD
 Desenho
 
 https://drive.google.com/file/d/1QEG4VXxvf_BTn3m2n3Eupf1EOoleVIxf/view?usp=drive_link
-
-• Criar uma action do tipo TypeScript que faça execução de algum linter ou quality 
-gates
-o Exemplos:
-§ Validar se existe um arquivo no repositório necessário para o build,
-caso negativo abortar a esteira indicando que e necessário esse 
-arquivo
 
 § Executar uma análise estática usando a ferramenta SonarQube ou 
 alguma outra similiar
