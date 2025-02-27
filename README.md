@@ -3,9 +3,11 @@
 • Criar uma action do tipo TypeScript que faça execução de algum linter ou quality 
 gates
 o Exemplos:
-§ Validar se existe um arquivo no repositório necessário para o build,
+* Validar se existe um arquivo no repositório necessário para o build,
 caso negativo abortar a esteira indicando que e necessário esse 
 arquivo
+
+*****************************************************************************************************************************************************
 
 Tarefa: Crie um pipeline de CI/CD usando o GitHub Actions para um projeto simples de 
 aplicação web.
